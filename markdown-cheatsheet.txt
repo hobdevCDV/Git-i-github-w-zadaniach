@@ -1,0 +1,106 @@
+Na podstawie: https://www.markdownguide.org/cheat-sheet/
+
+SKŁADNIA PODSTAWOWA I ROZSZERZONA
+
+Nagłówki:
+
+# - H1
+## - H2
+### - H3
+
+Wytłuszczenie (Bold)
+
+**wytłuszczony tekst**
+
+Kursywa (Italic)
+
+*tekst pisany kursywą*
+
+Blok cytatu (Blockquote)
+
+> cytat
+
+Uporządkowana lista (Ordered List)
+	
+	1. Pierwszy element
+	2. Drugi element
+	3. Trzeci element
+
+Nieuporządkowana lista (Unordered List)
+	
+	- pierwszy element
+	- drugi element
+	- trzeci element
+
+Kod (Code)
+
+`jakiś kod`
+
+Pozioma linia (Hirizontal Rule)
+
+--- 
+
+Link 
+
+[title](https://www.przykladowylink.com)
+
+Obrazek (Image)
+
+![alt text](nazwa_pliku.jpg)
+
+Uwaga - jeżeli jednak chcemy zmienić rozmiar - wygodniej skorzystać ze znacznika HTML:
+
+<img src=„nazwa_katalogu/nazwa_obrazu.jpg” height="150" width="150"/>
+
+Tabela (Table)
+
+| nagłówek 1 | nagłówek 2 |
+| ------------- | ------------- |
+| komórka 1 | komórka 2 |
+| komórka 3 | komórka 4 |
+
+
+Przypis dolny (Footnote)
+
+Zdanie z odniesieniem do adnotacji w stopce strony. [^1]
+
+[^1]: Adnotacja w stopce strony.
+
+
+Definicja (Definition List)
+
+zwrot
+: definicja
+
+Przekreślenie (Strikethrough)
+
+~~Przekreślone zdanie.~~
+
+Lista zadań (Task List)
+
+- [x] zadanie 1
+- [ ] zadanie 2
+- [ ] zadanie 3
+
+Skróty Emoji (Emoji)
+
+Bardzo zabawne zdanie :joy:
+
+Zakreślenie (Highlight)
+
+Zdanie z ==bardzo ważnym fragmentem==.
+
+Indeks dolny (Subscript)
+
+CO~2~
+
+Indeks górny (Superscript)
+
+a^2^ + b^2^
+
+Równanie Latex (jeżeli w systemie są zainstalowane stosowne rozszerzenia)
+
+$\vec{F} = m \cdot \vec{a}$
+
+Warto również zapoznać się z samouczkiem korzystania z języka Markdown w serwisie GitHub: 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax

@@ -26,6 +26,25 @@ Zapoznaj się z podstawami języka formatowania tekstu Markdown, a następnie ut
 Dodaj do swojego repozytorium katalog z obrazkami, które wykorzystasz później w dokumentach prezentujących Twoją restaurację. Obrazów możesz szukać w serwisach z bezpłatnymi grafikami takich jak Unsplash lub Pixabay.
 
 ### Zadanie 6. 
-Rozwiń menu swojej restauracji. Dodaj kilka sekcji menu i wstaw do niego obrazki. Sekcje menu niech będą zawierać się w tabelach, które możesz tworzyć korzystając ze składni języka Markdown.
+Rozwiń menu swojej restauracji. Dodaj kilka sekcji menu. Sekcje menu niech będą zawierać się w tabelach, które możesz tworzyć korzystając ze składni języka Markdown.
+
+### Zadanie 7.
+Do utworzonego menu dodaj obrazki - po jednym dla każdej sekcji (obrazek powinien znajdować się pod sekcją). Wykonaj migawkę i przejrzyj historię repozytorium. 
+
+### Zadanie 8.
+Do utworzonego menu dodaj obrazki - po jednym dla każdej sekcji (obrazek powinien znajdować się pod sekcją). Wykonaj migawkę i przejrzyj historię repozytorium. 
+
+### Zadanie 9.
+Wyobraź sobie, że Twoja pizzeria odniosła niemały sukces, chcesz jednak zagospodarować kolejny segment rynku i planujesz utworzyć nowy lokal skierowany głównie na wegetarian. 
+Rozpocznij w projekcie nową gałąź dedykowaną klientowi wegetariańskiemu. Do pliku z menu dodaj sekcję - dla wegetarian (pizze wegetariańskie oraz sałatki). 
+
+### Zadanie 10.
+Wykonaj złączenie nowoutworzonej gałęzi, na której opracowałeś sekcję dla wegetarian do głównej gałęzi projektu. 
+
+### Zadanie 11.
+Wykonaj edycję tej samej linii w tym samym pliku w obu gałęziach swojego projektu, wywołaj konflikt, a następnie rozwiąż go. 
+
+### Zadanie 12.
+Zaproś do edycji swojego repozytorium innego użytkownika (swoje drugie konto). Zaloguj się na drugie konto i 
 
 

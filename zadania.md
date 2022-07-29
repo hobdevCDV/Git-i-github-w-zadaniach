@@ -45,6 +45,6 @@ Wykonaj złączenie nowoutworzonej gałęzi, na której opracowałeś sekcję dl
 Wykonaj edycję tej samej linii w tym samym pliku w obu gałęziach swojego projektu, wywołaj konflikt, a następnie rozwiąż go. 
 
 ### Zadanie 12.
-Zaproś do edycji swojego repozytorium innego użytkownika (swoje drugie konto). Zaloguj się na drugie konto i 
+Zaproś do edycji swojego repozytorium innego użytkownika (swoje drugie konto). Zaloguj się na drugie konto, utwórz swoją gałąź, wykonaj edycję wybranego pliku i złóż zgłoszenie (Pull request). Wróć na swoje pierwsze konto i skomentuj utworzone zgłoszenie. Możesz uatrakcyjnić swój komunikat za pomocą emotikon :+1: oraz :ship:. 
 
 

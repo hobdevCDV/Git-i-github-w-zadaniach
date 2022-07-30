@@ -14,7 +14,9 @@ Wejdź na stronę github.com, a następnie dokonaj wnikliwego przeglądu wybrane
 - informacja dot. właściciela repozytorium
 - ustawienia publiczności repozytorium
 - możliwość finansowego wsparcia projektu
-- 
+- możliwość śledzenia projektu
+- możliwość odgałęzienia projektu
+- możliwość ocenienia projektu
 
 ### Zadanie 2.
 W serwisie GitHub utwórz trzy konta użytkownika - jedno, z którego będziesz korzystać w ramach całego kursu i być może swojej dalszej pracy z serwisem, oraz dwa pomocnicze, które będą nam potrzebne na etapie omawiania gałęzi (branch) i rozgałęzień (fork).

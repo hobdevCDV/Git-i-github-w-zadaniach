@@ -25,6 +25,9 @@ Wejdź na stronę github.com, a następnie dokonaj wnikliwego przeglądu wybrane
 - możliwość tworzenia wiki
 - możliwość tworzenia zasad bezpieczeństwa
 - możliwość wglądu z dynamikę rozwoju projektu
+- możliwość przeglądu danych i statystyk projektu
+- możliwość przeglądu opisu projektu w pliku README.md
+- możliwość przeglądu społeczności zaangażowanej w projekt
 
 ### Zadanie 2.
 W serwisie GitHub utwórz trzy konta użytkownika - jedno, z którego będziesz korzystać w ramach całego kursu i być może swojej dalszej pracy z serwisem, oraz dwa pomocnicze, które będą nam potrzebne na etapie omawiania gałęzi (branch) i rozgałęzień (fork).

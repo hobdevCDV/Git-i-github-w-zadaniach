@@ -197,7 +197,10 @@ Utwórz wiki projektu i zamieść z niej treści przepisów wszystkich oferowany
 
 ---
 
+Co jeszcze?
 
+- cofanie zmian na GitHub
+- cofanie zmian w Git
 
 
 

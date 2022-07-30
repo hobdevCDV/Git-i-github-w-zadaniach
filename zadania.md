@@ -4,11 +4,17 @@
 - komentarz
 - dlaczego sensowne komentarze są ważne?
 - identyfikator migawki
+- gałąź (branch)
+- odgałęzienie (fork)
+- zgłoszenie (Pull request)
+- problem (Issue)
 
 ### Zadanie 1. 
 Wejdź na stronę github.com, a następnie dokonaj wnikliwego przeglądu wybranego repozytorium (np. processing). Zwróć uwagę na następujące elementy interfejsu serwisu GitHub:
 - informacja dot. właściciela repozytorium
 - ustawienia publiczności repozytorium
+- możliwość finansowego wsparcia projektu
+- 
 
 ### Zadanie 2.
 W serwisie GitHub utwórz trzy konta użytkownika - jedno, z którego będziesz korzystać w ramach całego kursu i być może swojej dalszej pracy z serwisem, oraz dwa pomocnicze, które będą nam potrzebne na etapie omawiania gałęzi (branch) i rozgałęzień (fork).

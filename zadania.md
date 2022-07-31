@@ -15,6 +15,10 @@
 
 ---
 
+# Podstawy korzystania z serwisu GitHub
+
+---
+
 ### Zadanie 1. 
 Wejdź na stronę github.com, a następnie dokonaj wnikliwego przeglądu wybranego repozytorium (np. processing). Zwróć uwagę na następujące elementy interfejsu serwisu GitHub:
 - informacja dot. właściciela repozytorium
@@ -83,14 +87,14 @@ Cofnij swoje repozytorium w serwisie GitHub do dowolnego wcześniejszego stanu.
 
 ### Zadanie 8.
 Dodaj do swojego repozytorium katalog z obrazkami, które wykorzystasz później w dokumentach prezentujących Twoją restaurację. Obrazów możesz szukać w serwisach z bezpłatnymi grafikami takich jak:
-- Unsplash, 
-- Pexels lub 
-- Pixabay.
+- Unsplash (https://unsplash.com)
+- Pexels (https://www.pexels.com/pl-pl/) lub 
+- Pixabay (https://pixabay.com).
 
 ---
 
 ### Zadanie 9. 
-Rozwiń menu swojej restauracji. Dodaj kilka sekcji menu. Sekcje menu niech będą zawierać się w tabelach, które możesz tworzyć korzystając ze składni języka Markdown.
+Rozwiń menu swojej restauracji. Dodaj kilka sekcji menu. Sekcje menu niech będą zawarte w tabelach, które możesz tworzyć korzystając ze składni języka Markdown.
 
 ---
 
@@ -105,8 +109,8 @@ Do utworzonego menu dodaj obrazki - po jednym dla każdej sekcji (obrazek powini
 ---
 
 ### Zadanie 12.
-Wyobraź sobie, że Twoja pizzeria odniosła niemały sukces, chcesz jednak rozszerzyć swoją ofertę o dania wegetariańskie.
-Rozpocznij w projekcie nową gałąź dedykowaną klientowi wegetariańskiemu. Do pliku z menu dodaj sekcję - dla wegetarian (pizze wegetariańskie oraz sałatki). 
+Wyobraź sobie, że Twoja pizzeria odniosła spory sukces, chcesz jednak rozszerzyć swoją ofertę o dania wegetariańskie.
+Rozpocznij w projekcie nową gałąź dedykowaną również klientowi wegetariańskiemu. Do pliku z menu dodaj sekcję - dla wegetarian (pizze wegetariańskie oraz sałatki). 
 
 ---
 
@@ -116,37 +120,41 @@ Wykonaj złączenie nowoutworzonej gałęzi, na której opracowałeś sekcję dl
 ---
 
 ### Zadanie 14.
-Wykonaj edycję tej samej linii w tym samym pliku w obu gałęziach swojego projektu, wywołaj konflikt, a następnie rozwiąż go. 
+Wykonaj edycję tej samej linii w tym samym pliku w obu gałęziach swojego projektu (np. w menu), wywołaj konflikt, a następnie rozwiąż go. 
 
 ---
 
 ### Zadanie 15.
-Utwórz w ramach swojego konta GitHub organizację. Następnie zaproś do edycji swojego repozytorium innego użytkownika (swoje drugie konto). Wróć do GitHub Projects i przypisz kontu współpracowniczemu do realizacji części projektu (zespół, adres/kontakt).
+Utwórz w ramach swojego konta GitHub organizację. Następnie zaproś do edycji swojego repozytorium innego użytkownika (konto współpracownicze). Wróć do GitHub Projects i przypisz kontu współpracowniczemu do realizacji części projektu (zespół, adres/kontakt).
 
 ---
 
 ### Zadanie 16.
-Zaloguj się na drugie konto, utwórz swoją gałąź, wykonaj edycję wybranego pliku i złóż zgłoszenie (Pull request). Wróć na swoje pierwsze konto i skomentuj utworzone zgłoszenie. Możesz uatrakcyjnić swój komunikat za pomocą emotikon :+1: oraz :ship:. Możesz zapoznać się z innymi ikonami na stronie: Możesz również uatrakcyjnić swój komentarz korzystając z obrazków GIF przeciągając je w pole komentarza.
+Zaloguj się na konto współpracownicze, utwórz swoją gałąź, wykonaj edycję wybranego pliku i złóż zgłoszenie (Pull requests). Wróć do konta deweloperskiego i skomentuj utworzone zgłoszenie. Możesz uatrakcyjnić swój komunikat za pomocą emotikon :+1: oraz :ship:. Możesz zapoznać się z innymi ikonami na stronie: https://www.webfx.com/tools/emoji-cheat-sheet/. Możesz również wzbogacić swój komentarz korzystając z obrazków GIF przeciągając je w pole komentarza.
 
 ---
 
 ### Zadanie 17. 
-Z poziomu konta współpracowniczego utwórz swoją gałąź roboczą, a następnie uzupełnij plik prezentacji zespołu oraz danych adresowo-kontaktowych. Utwórz zgłoszenie i dołącz zmiany do głównej gałęzi projektu. 
+Z poziomu konta współpracowniczego utwórz gałąź roboczą, a następnie uzupełnij plik prezentacji zespołu oraz danych adresowo-kontaktowych. Utwórz zgłoszenie i dołącz zmiany do głównej gałęzi projektu. 
 
 ---
 
 ### Zadanie 18.
-Zaloguj się na swoje trzecie konto. Wykonaj odgałęzienie projektu, dodaj zmianę do swojej wersji głównej gałęzi i wykonaj zgłoszenie. Następnie wróć do swojego pierwszego konta, skomentuj zmiany i dokonaj akceptacji bądź odrzucenia zmian. Zobacz jakie powiadomienia pojawiły się na trzecim koncie.
+Zaloguj się na swoje trzecie konto (konto obserwatorskie). Wykonaj odgałęzienie projektu, dodaj zmianę do wersji głównej gałęzi (należącej teraz do konta obserwatora) i wykonaj zgłoszenie. Następnie wróć do swojego pierwszego konta, skomentuj zmiany i dokonaj akceptacji bądź odrzucenia zmian. Zobacz jakie powiadomienia pojawiły się na trzecim koncie.
 
 ---
 
 ### Zadanie 19.
-Zaloguj się na swoje trzecie konto (obserwator/wolontariusz). Wykonaj zgłoszenie problemu (Issue). W komentarzu napisz np. że w menu brakuje sekcji z dodatkami. Przejdź na swoje podstawowe konto, wykonaj zalecane poprawki i zamknij zgłoszenie problemu. Możesz skorzystać ze słowa fixes w odpowiedzi na zgłoszenie błędu.
+Zaloguj się na konto obserwatorskie. Wykonaj zgłoszenie problemu (Issue). W komentarzu napisz np. że w menu brakuje sekcji z dodatkami, lub że któryś ze składników w sekcji wegetariańskiej nie jest wegetariański. Przejdź na swoje podstawowe konto, wykonaj zalecane poprawki i zamknij zgłoszenie problemu. Możesz skorzystać ze słowa fixes w odpowiedzi na zgłoszenie błędu.
 
 ---
 
 ### Zadanie 20.
-Korzystając z konta obserwator/wolontariusz zaproponuj treści przepisów do poszczególnych pozycji w menu. Wprowadź zmiany do swojej wersji głównej gałęzi i wykonaj zgłoszenie. Następnie wróć do swojego pierwszego konta, skomentuj zmiany i dokonaj akceptacji bądź odrzucenia zmian.
+Korzystając z konta obserwatora zaproponuj treści przepisów do poszczególnych pozycji w menu. Wprowadź zmiany do swojej wersji głównej gałęzi i wykonaj zgłoszenie. Następnie wróć do swojego pierwszego konta, skomentuj zmiany i dokonaj akceptacji bądź odrzucenia zmian.
+
+---
+
+# Korzystanie z systemu Git na zasobach lokalnych
 
 ---
 
@@ -156,16 +164,13 @@ Pobierz i zainstaluj system Git lokalnie na swoim komputerze (w systemie macOS, 
 ---
 
 ### Zadanie 22.
-Pobierz i zainstaluj program GitHub Desktop (w systemie macOS, GNU/Linux lub Windows).
+Pobierz i zainstaluj programy, z których będziemy korzystać w kolejnych zadaniach kursu (dostępne dla systemów macOS, GNU/Linux lub Windows):
+- GitHub Desktop 
+- Visual Studio Code
 
 ---
 
 ### Zadanie 23.
-Pobierz i zainstaluj śrosowisko Visual Studio Code (w systemie macOS, GNU/Linux lub Windows).
-
----
-
-### Zadanie 24.
 - Uruchom wiersz poleceń i za jego pomocą przejdź na swój pulpit. Następnie utwórz na nim katalog o nazwie „Nauka obsługi wiersza poleceń”.
 - Wejdź do utworzonego katalogu i utwórz w nim nowe trzy katalogi (katalog_1, katalog_2, katalog_3) oraz trzy pliki tekstowe (plik_1.txt, plik_2.txt, plik_3.txt).
 - Skopiuj plik_1.txt do katalog_1, plik_2.txt na pulpit, a plik_3.txt przenieś na pulpit
@@ -173,59 +178,72 @@ Pobierz i zainstaluj śrosowisko Visual Studio Code (w systemie macOS, GNU/Linux
 
 ---
 
-### Zadanie 25.
-Z poziomu wiersza poleceń połącz się z istniejącym repozytorium w serwisie GitHub. Utwórz jego lokalną kopię, wykonaj kilka migawek, a następnie wypchnij zmiany do zewnętrznego repozytorium w serwisie GitHub.
+### Zadanie 24.
+Utwórz lokalnie nowe testowe repozyorium. Utwórz w katalogu projektu kilka plików, dodaj multimedia i wykonaj kilka (minimum pięć) lokalnych migawek.
 
 ---
 
-### Zadanie 26.
+### Zadanie 25.
 Z poziomu wiersza poleceń dokonaj przeglądu migawek repozytorium.
 
 ---
 
-### Zadanie 27.
+### Zadanie 26.
 Cofnij lokalnie repozytorium do dowolnego stanu. Pamiętaj, aby uaktualnić również stan repozytorium w serwisie GitHub (jeżeli są połączone) za pomocą eksportu (push). 
 
 ---
 
-### Zadanie 28.
-Z poziomu wiersza poleceń dokonaj przeglądu dostępnych gałęzi projektu, przełącz się między nimi, wprowadź zmiany na wybranej z nich (lub utwórz nową) i dokonaj scalenia zmian.
+### Zadanie 27.
+Z poziomu wiersza poleceń utwórz dodatkowe gałęzie projektu, dokonaj przeglądu dostępnych gałęzi, przełącz się między nimi, wprowadź zmiany na wybranej z nich i dokonaj scalenia zmian.
+
+---
+
+### Zadanie 28. 
+Przygotuj swój komputer do połączenia lokalnych repozytoriów z serwisem GitHub. Zainstaluj na swoim komputerze program gh (instrukcja: https://github.com/cli/cli#installation). W serwisie GitHub wygeneruj token uwierzytelniający (https://github.com/settings/tokens).
 
 ---
 
 ### Zadanie 29.
-Utwórz nowe lokalne repozytorium i wyeksportuj je do serwisu GitHub.
+Utworzone lokalne repozytorium wyeksportuj do serwisu GitHub. Przejrzyj zmiany i migawki w serwisie GitHub. Dokonaj modyfikacji repozytorium w serwisie GitHub i pobierz zmiany do swojej lokalnej kopii. 
 
 ---
 
 ### Zadanie 30.
+Z poziomu wiersza poleceń połącz się z istniejącym repozytorium w serwisie GitHub. Utwórz jego lokalną kopię, wykonaj kilka migawek, a następnie wypchnij zmiany do zewnętrznego repozytorium w serwisie GitHub.
+
+---
+
+# Dodatkowe funkcjonalności serwisu GitHub i systemu Git oraz łączenie ich z innymi programami
+
+---
+
+### Zadanie 31.
 W serwisie GitHub skorzystaj z funkcjonajlności GitHub pages i załóż stronę projektu.
 
 ---
 
-### Zadanie 31. 
+### Zadanie 32. 
 Pobierz zmiany w repozytorium do swojej lokalnej kopii i korzystając ze środowiska Visual Studio Code edytuj plik README.md, który teraz będzie pełnić rolę treści strony projektu. Połącz w nim treści opracowane w poprzednich plikach (opis miejsca, menu, zespół).
 
 ---
 
-### Zadanie 32.
-Korzystając z przeglądarki GitHub Desktop dokonaj przeglądu swoich lokalnych repozytoriów.
-
----
-
 ### Zadanie 33.
-
-Połącz środowisko VS Code z systemem Git/GitHub. Wykonaj dowolną zmianę w repozytorium i z poziomu środowiska VS Code wykonaj migawkę oraz wyeksportuj zmiany do serwisu GitHub.
+Korzystając z przeglądarki GitHub Desktop dokonaj przeglądu swoich lokalnych repozytoriów.
 
 ---
 
 ### Zadanie 34.
 
-Utwórz wiki projektu i zamieść z niej treści przepisów wszystkich oferowanych dań.
+Połącz środowisko Visual Studio Code z systemem Git/GitHub. Wykonaj dowolną zmianę w repozytorium i z poziomu środowiska VS Code wykonaj migawkę oraz wyeksportuj zmiany do serwisu GitHub.
 
 ---
 
 ### Zadanie 35.
+
+Utwórz wiki projektu i zamieść z niej treści przepisów wszystkich oferowanych dań.
+
+---
+
 
 
 

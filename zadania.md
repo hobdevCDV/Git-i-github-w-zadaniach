@@ -1,5 +1,9 @@
+# Podstawy korzystania z serwisu GitHub
 
-## Zagadnienia do omówienia
+## Zagadnienia do omówienia:
+- co to jest system Git
+- co to jest serwis GitHub 
+- repozytorium
 - oś czasu projektu
 - migawka (commit)
 - komentarz
@@ -10,12 +14,9 @@
 - zgłoszenie (Pull request)
 - problem (Issue)
 - scalenie (Merge)
-- Gist
-- komentarz "fixes"
+- co to jest Gist
+- magiczne słowa w komentarzach "fixes"
 
----
-
-# Podstawy korzystania z serwisu GitHub
 
 ---
 
@@ -49,7 +50,7 @@ W serwisie GitHub utwórz trzy konta użytkownika:
 ---
 
 ### Zadanie 3.
-Zapoznaj się z funkcjonalnością GitHub Gist, która umożliwia tworzenie, udostępnianie i komentowanie pojedyńczych plików tekstowych. Korzystając z konta deweloperskiego utwórz swój pierwszy Gist, a następnie skopiuj link do niego i odwiedź go korzystając z konta pomocniczego. Dodaj do niego kilka komentarzy (2-3 komentarze). 
+Zapoznaj się z funkcjonalnością GitHub Gist, która umożliwia tworzenie, udostępnianie i komentowanie pojedyńczych plików tekstowych (notatek lub kodów źródłowych). Korzystając z konta deweloperskiego utwórz swój pierwszy Gist, a następnie skopiuj link do niego i odwiedź go korzystając z konta pomocniczego (współpracowniczego lub obserwatorskiego). Dodaj do niego kilka komentarzy (2-3 komentarze). 
 
 ---
 
@@ -156,6 +157,12 @@ Korzystając z konta obserwatora zaproponuj treści przepisów do poszczególnyc
 
 # Korzystanie z systemu Git na zasobach lokalnych
 
+## Zagadnienia do omówienia:
+- wiersz poleceń
+- podstawowe instrukcje wiersza poleceń w systemach macOS, GNU/Linux i Windows
+- polecenia systemu Git
+- łączenie z serwisem GitHub
+
 ---
 
 ### Zadanie 21.
@@ -214,6 +221,11 @@ Z poziomu wiersza poleceń połącz się z istniejącym repozytorium w serwisie 
 ---
 
 # Dodatkowe funkcjonalności serwisu GitHub i systemu Git oraz łączenie ich z innymi programami
+
+## Zadanienia do omówienia:
+- hosting stron i aplikacji w serwisie GitHub
+- dokumentowanie projektu z wykorzystaniem wiki
+- integracja Git/GitHub z innymi programami
 
 ---
 

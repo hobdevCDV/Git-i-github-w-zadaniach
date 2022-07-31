@@ -120,6 +120,10 @@ Z poziomu konta współpracowniczego utwórz swoją gałąź roboczą, a następ
 ### Zadanie 16.
 Zaloguj się na swoje trzecie konto. Wykonaj odgałęzienie projektu, dodaj zmianę do swojej wersji głównej gałęzi i wykonaj zgłoszenie. Następnie wróć do swojego pierwszego konta, skomentuj zmiany i dokonaj akceptacji bądź odrzucenia zmian. Zobacz jakie powiadomienia pojawiły się na trzecim koncie.
 
+### Zadanie 16.
+Zaloguj się na swoje trzecie konto (obserwator/wolontariusz). Wykonaj zgłoszenie problemu (Issue). W komentarzu napisz np. że w menu brakuje sekcji z dodatkami. Przejdź na swoje podstawowe konto, wykonaj zalecane poprawki i zamknij zgłoszenie problemu.
+
+
 ---
 
 ### Zadanie 17.
@@ -171,7 +175,7 @@ Utwórz nowe lokalne repozytorium i wyeksportuj je do serwisu GitHub.
 ---
 
 ### Zadanie 26.
-W serwisie GitHub skorzystaj z funkcjonajlności GitHub pages i utwórz stronę projektu.
+W serwisie GitHub skorzystaj z funkcjonajlności GitHub pages i załóż stronę projektu.
 
 ---
 

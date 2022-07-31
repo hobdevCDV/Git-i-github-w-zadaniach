@@ -16,6 +16,8 @@
 - scalenie (Merge)
 - co to jest Gist
 - magiczne słowa w komentarzach "fixes"
+- dokumentacja serwisu Git: https://git-scm.com/doc
+- dokumentacja serwisu GitHub: https://docs.github.com/en
 
 
 ---

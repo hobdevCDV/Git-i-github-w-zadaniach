@@ -128,7 +128,7 @@ Wykonaj edycję tej samej linii w tym samym pliku w obu gałęziach swojego proj
 ---
 
 ### Zadanie 15.
-Utwórz w ramach swojego konta GitHub organizację. Następnie zaproś do edycji swojego repozytorium innego użytkownika (konto współpracownicze). Wróć do GitHub Projects i przypisz kontu współpracowniczemu do realizacji części projektu (zespół, adres/kontakt).
+Zaproś do edycji swojego repozytorium innego użytkownika (konto współpracownicze). Wróć do GitHub Projects i przypisz kontu współpracowniczemu do realizacji części projektu (zespół, adres/kontakt).
 
 ---
 
@@ -154,6 +154,11 @@ Zaloguj się na konto obserwatorskie. Wykonaj zgłoszenie problemu (Issue). W ko
 
 ### Zadanie 20.
 Korzystając z konta obserwatora zaproponuj treści przepisów do poszczególnych pozycji w menu. Wprowadź zmiany do swojej wersji głównej gałęzi i wykonaj zgłoszenie. Następnie wróć do swojego pierwszego konta, skomentuj zmiany i dokonaj akceptacji bądź odrzucenia zmian.
+
+---
+
+### Zadanie 20 b
+W serwisie GitHub utwórz organizację, następnie przełącz się na nią i zobacz jak wygląda możliwość pracy z poziomu organizacji.
 
 ---
 
